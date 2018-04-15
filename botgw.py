@@ -12,7 +12,7 @@ import goslate
 #kk.loginResult()
 
 cl = LINETCR.LINE()
-cl.login(qr=True)
+cl.login(token='ISI TOKEN KAMU')
 cl.loginResult()
 
 
@@ -23,7 +23,7 @@ sys.setdefaultencoding('utf-8')
 
 helpMessage ="""_________________________________
 
-Bot Publik INSAN MUCHTADI.S v 1.2
+Bot Publik osis MAN 2 BDG v 1.2
 ==========BotMenu===========
 
 Apakah (seperti kerang ajaib)
@@ -48,9 +48,9 @@ Steal home @(by tag) = melihat home
 
 ==========BotCreator==========
 
-Suport By:>>>>>INSAN.M,S<<<<<<
+Suport By:>>>>>Sekbid 9<<<<<<
 
-==>"Instagram.com/insan.m.s014"<==
+==>"Instagram.com/man2bandung_osis"<==
 _________________________________
 """
 
@@ -67,7 +67,7 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"line= maotaubangetapah",
+    'message':"THANKS FOR ADD",
     "lang":"JP",
     "comment":"Thanks for add ",
     "commentOn":False,
